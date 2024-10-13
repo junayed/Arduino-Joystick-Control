@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Arduino Joystick Control
 
 ![Demo GIF](demo.gif)
